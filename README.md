@@ -7,7 +7,7 @@
 Контакты для связи:
 
 + Telegram:@mugveiL
-- E-mail: vvvbykoc@gmail.com
+- E-mail: vvvbykov@gmail.com
 <!--
 **Scortlin/Scortlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
