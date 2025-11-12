@@ -1,12 +1,12 @@
-### Всем привет! Я начинающий программист С++ и выпускник Яндекс Практикума! 👋
+### Всем привет! Я backend программист Python и выпускник Яндекс Практикума! 👋
 
-Стек: C++17, MS VS, GCC, Clang, Git, CMake, protobuf, RAII, STL
+Стек: Python, Django, Flask, PostgreSQL, REST API, SOAP, Git, Celery, Kafka, Kubernetes
 
 Люблю читать книги и путешествовать.
 
 Контакты для связи:
 
-+ Telegram:
++ Telegram: https://t.me/vvvbykov7
 - E-mail: vvvbykov@gmail.com
 <!--
 **Scortlin/Scortlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
