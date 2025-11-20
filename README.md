@@ -1,6 +1,6 @@
 ### Всем привет! Я backend программист Python и выпускник Яндекс Практикума! 👋
 
-Стек: Python, Django, Flask, PostgreSQL, REST API, SOAP, Git, Celery, Kafka, Kubernetes, Matplotlib, Plotly
+Стек: Python, Django, Flask, PostgreSQL, REST API, SOAP, Git, Celery, Docker, Kafka, Kubernetes, Matplotlib, Plotly
 
 Люблю читать книги и путешествовать.
 
